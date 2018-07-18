@@ -14,3 +14,7 @@ sdsdsdsdsdsdsdsdsdsd
 
 ## How To Contribute
 
+### Copyright 
+
+2018 GIT Tranning 
+
